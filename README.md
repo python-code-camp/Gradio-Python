@@ -1,5 +1,7 @@
 # Create Interactive AI Apps in Minutes with Gradio: Chatbots & Face Detection Tutorial
 
+Do Wacth : https://youtu.be/S-aOp6dAb44
+
 Discover the power of Gradio, the game-changing tool of 2024 that lets you create interactive AI applications with just two lines of code! In this tutorial, I'll show you how easy it is to build a user interface for your machine learning projects without any need for complex frameworks or APIs.
 
 We'll start with a simple chatbot and then move on to a face detection app using Gradio and OpenCV. You'll see how effortlessly you can create and share interactive web applications for your AI and data science projects.
