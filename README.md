@@ -1,4 +1,4 @@
-# Effortless-AI-Interfaces-with-Gradio-
+# Effortless-AI-Interfaces-with-Gradio
 
 Discover the power of Gradio, the game-changing tool of 2024 that lets you create interactive AI applications with just two lines of code! In this tutorial, I'll show you how easy it is to build a user interface for your machine learning projects without any need for complex frameworks or APIs.
 
