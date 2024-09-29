@@ -1,3 +1,5 @@
+""" https://www.youtube.com/@PythonCodeCampOrg """
+
 import cv2
 import pytesseract
 import gradio as gr
